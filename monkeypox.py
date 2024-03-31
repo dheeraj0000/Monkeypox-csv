@@ -26,7 +26,7 @@ def monkeypox_prediction(input_data):
 
 def main():
     # giving a title
-    st.title('Monkeypox Prediction Web App')`
+    st.title('Monkeypox Prediction Web App')
     
     # getting the input data from the user
     patient_ID = st.text_input('Enter the patient ID')
